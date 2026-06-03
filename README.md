@@ -2,7 +2,7 @@
 
 # Hey there 👋 I'm Wahyu Ravi Anggoro
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Mobile+Developer+in+Progress;Flutter+%26+Dart+Enthusiast;Student+at+SMK+Telkom+Malang" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Mobile+Developer+in+Progress+%F0%9F%93%B1;Flutter+%26+Dart+Enthusiast+%F0%9F%90%A6;Student+at+SMK+Telkom+Malang+%F0%9F%8F%AB;Class+of+2026+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -54,12 +54,12 @@ const developer = {
 
 | &nbsp; | Project | Description | Stack |
 |:---:|---|---|---|
-| 💧 | [**PDAM App**](https://github.com/WagyuuA5/PDAM_App) | Water utility billing & payment management with role-based access (Admin & Customer) | Flutter · REST API · JWT |
+| 💧 | [**PDAM App**](https://github.com/WagyuuA5/PDAM_App) | Water utility billing & payment management with role-based access | Flutter · REST API · JWT |
 | 🛋️ | [**Furniture App**](https://github.com/WagyuuA5/Furniture_App) | E-commerce mobile app for furniture products | Flutter · Dart |
 | 📚 | [**Digital Library**](https://github.com/WagyuuA5/Digital_Library_App) | Digital library management application | Flutter · Dart |
 | 🛒 | [**E-Commerce App**](https://github.com/WagyuuA5/Ecommerce_app) | Mobile e-commerce with product listing and cart | Flutter · Dart |
 | 🖥️ | [**Computer Rental**](https://github.com/WagyuuA5/Computer_Rental_APP) | Computer rental management system | Flutter · Dart |
-| 📊 | [**Data Analyst**](https://github.com/WagyuuA5/Data_Analyst_1) | Data analysis and visualization project | Python |
+| 📊 | [**Data Analyst**](https://github.com/WagyuuA5/Data_Analyst_1) | Data analysis and visualization project | Jupyter · Python |
 
 </div>
 
@@ -69,15 +69,15 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WagyuuA5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagyuuA5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=WagyuuA5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagyuuA5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WagyuuA5&theme=tokyonight&hide_border=true" height="165" />
+<img height="160" src="https://streak-stats.demolab.com?user=WagyuuA5&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -87,7 +87,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WagyuuA5&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=WagyuuA5&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -97,7 +97,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WagyuuA5&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WagyuuA5&theme=tokyo-night&hide_border=true&area=true&custom_title=WagyuuA5%27s%20Contribution%20Graph" width="95%" />
 
 </div>
 
@@ -111,7 +111,7 @@ const developer = {
 
 <br/><br/>
 
-*⭐ Feel free to star any repo you find useful!*
+⭐ *Feel free to star any repo you find useful!*
 
 <br/>
 
