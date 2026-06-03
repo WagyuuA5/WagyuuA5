@@ -65,39 +65,45 @@ const developer = {
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WagyuuA5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagyuuA5&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img height="160" src="https://streak-stats.demolab.com?user=WagyuuA5&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=WagyuuA5&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+| Metric | Value |
+|---|---|
+| 📦 Public Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWagyuuA5&query=%24.public_repos&label=Repos&color=02569B&style=flat-square) |
+| 👥 Followers | ![Followers](https://img.shields.io/github/followers/WagyuuA5?label=Followers&style=flat-square&color=0077B5) |
+| ⭐ Total Stars | ![Stars](https://img.shields.io/badge/Stars-Check%20Repos-FFD700?style=flat-square&logo=github) |
+| 🐦 Main Language | ![Dart](https://img.shields.io/badge/Main%20Lang-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| 📅 GitHub Since | ![Since](https://img.shields.io/badge/Since-October%202024-green?style=flat-square&logo=github) |
+| 🏫 Organization | ![SMK](https://img.shields.io/badge/SMK%20Telkom-Malang-red?style=flat-square) |
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 🎯 Currently Working On
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WagyuuA5&theme=tokyo-night&hide_border=true&area=true&custom_title=WagyuuA5%27s%20Contribution%20Graph" width="95%" />
+```
+🔨  PDAM App          — Flutter REST API with JWT Auth & Role-based Access
+📱  Mobile Dev        — Deepening Flutter & Dart skills
+🌐  Backend Basics    — Learning REST API design & Postman testing
+```
+
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+![Dart](https://img.shields.io/badge/Dart-65%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-20%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Other](https://img.shields.io/badge/Other-5%25-gray?style=for-the-badge)
 
 </div>
 
